@@ -1,6 +1,6 @@
 # A.B. RAM Films Data Analysis 
 
-Project is based on a fictitious film company. Source of data was webscraped from IMDb on July 2021 using Python. Conducted regression and cluster analysis drawing conclusions related to expenses and earnings of movie companies worldwide from 1980-2020. Made data-driven decisions in sharing recommendations  how this movie company can increase its profit producing films. 
+Project is based on a fictitious film company. Source of data came from [kaggle.com](https://www.kaggle.com/danielgrijalvas/movies), dataset was webscraped from IMDb on July 2021 using Python. Conducted regression and cluster analysis, therefore drawing conclusions related to expenses and earnings of movie companies worldwide from 1980-2020. Made data-driven decisions by sharing recommendations how this movie company can increase its profit producing films. 
 
 # Primary Objectives
 
@@ -15,6 +15,7 @@ Project is based on a fictitious film company. Source of data was webscraped fro
 # Folders
 
 Here is the structure of the repository:
+
 ```
 Original Data       # Folder contains all the the original datasets. 
 Prepared Data       # Folder contains all the datasets that were modified through data cleaning.
