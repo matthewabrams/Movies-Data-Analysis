@@ -20,3 +20,7 @@ Original Data       # Folder contains all the the original datasets.
 Prepared Data       # Folder contains all the datasets that were modified through data cleaning.
 Project Management  # Folder contains the documentation of guidelines related to the project.
 Scripts             # Folder contains scripts: data wrangling/data consistency, exploratory data analysis, regression/cluster/time-series/geospatial analysis.
+
+# Tableau Dashboard
+
+Here is the project delivery that describes my analysis: [Behind the Scenes](https://public.tableau.com/app/profile/matthew3308/viz/BehindtheScenes/BehindtheScenes?publish=yes)
