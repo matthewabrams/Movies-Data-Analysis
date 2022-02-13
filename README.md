@@ -17,8 +17,8 @@ Project is based on a fictitious film company. Source of data came from [Kaggle]
 Here is the structure of the repository:
 
 ```
-Data                # Folder contains all the the original and prepared datasets. 
 Project Management  # Folder contains the documentation of guidelines related to the project.
+Data                # Folder contains all the the original and prepared datasets. 
 Scripts             # Folder contains scripts: data wrangling/data consistency, exploratory data analysis, regression/cluster/time-series/geospatial analysis.
 
 ```
