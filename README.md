@@ -23,6 +23,6 @@ Scripts             # Folder contains scripts: data wrangling/data consistency, 
 
 ```
 
-# Tableau Dashboard
+# Tableau Storyboard
 
 Here is the project delivery that describes my analysis: [Behind the Scenes](https://public.tableau.com/app/profile/matthew3308/viz/BehindtheScenes/BehindtheScenes?publish=yes)
